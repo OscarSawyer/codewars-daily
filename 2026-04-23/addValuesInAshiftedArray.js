@@ -45,7 +45,7 @@
 function addingShifted(arrays, shift){
   const singleLength = arrays[0].length;
   const numberOfArrays = arrays.length;
-  const resultLenth = singleLength + shift*(numberOfArrays-1);
+  const resultLength = singleLength + shift*(numberOfArrays-1);
   
   const result = new Array(resultLength).fill(0);
 
