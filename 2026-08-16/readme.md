@@ -1,0 +1,2 @@
+In this Kata, I learnt how to convert a string into a number. I also learnt that in JS, The method parseInt() and parseFloat() differ in their parsing behaviour but not their return behaviour.
+for Instnce, parseInt("42") and parseFloat("42") would all return an integer 42
