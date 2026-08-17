@@ -1,0 +1,1 @@
+In this kata I practiced the method, 'toUpperCase()' and split('') as well as how to access characters of a string and string concatenation.
