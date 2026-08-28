@@ -1,7 +1,4 @@
 
-
-
-
 // You are going to be given a non-empty string. Your job is to return the middle character(s) of the string.
 
 // If the string's length is odd, return the middle character.
@@ -18,5 +15,5 @@ function getMiddle(s)
   return s.length % 2 === 0
         ? s.slice(middle-1, middle+1)
         : s.slice(middle, middle+1);
-  
 }
+console.log(getMiddle('oscare'))
